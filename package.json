@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p440davis/VuePress-with-Netlify-CMS.git"
+    "url": "git+https://github.com/mdashikar/vuepress-blog-with-netlify-cms.git"
   },
   "keywords": [
     "VuePress",
@@ -17,12 +17,12 @@
     "Netlify CMS",
     "Netlify template"
   ],
-  "author": "Pete Davis (https://petedavis.dev)",
+  "author": "Md Ashiqur Rahman (https://ashik.dev)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/p440davis/VuePress-with-Netlify-CMS/issues"
+    "url": "https://github.com/mdashikar/vuepress-blog-with-netlify-cms.git/issues"
   },
-  "homepage": "https://vuepress-template.netlify.com",
+  "homepage": "",
   "devDependencies": {
     "vuepress": "^1.5.2"
   }
