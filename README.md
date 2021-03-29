@@ -13,9 +13,9 @@
 
 <a href="https://vuepress-template.netlify.com/"><img src="https://raw.githubusercontent.com/petedavisdev/VuePress-with-Netlify-CMS/master/docs/.vuepress/public/media/VuePress_%2B_Netlify_CMS.png" alt="" /></a>
 
-Deployed on Netlify: [vuepress-template.netlify.app](https://vuepress-template.netlify.app/)
+Deployed on Netlify: [https://competent-engelbart-162edf.netlify.app/](https://competent-engelbart-162edf.netlify.app/)
 
-Deployed on GitHub Pages: [petedavisdev.github.io/VuePress-with-Netlify-CMS](https://petedavisdev.github.io/VuePress-with-Netlify-CMS/)
+Deployed on GitHub Pages: [mdashikar.github.io/VuePress-with-Netlify-CMS](https://mdashikar.github.io/VuePress-with-Netlify-CMS/)
 
 ## Features
 
@@ -54,10 +54,4 @@ Deployed on GitHub Pages: [petedavisdev.github.io/VuePress-with-Netlify-CMS](htt
 
 This template is default VuePress - so please give your [skills](https://github.com/vuejs/vuepress) or [money](https://opencollective.com/vuepress) to the [VuePress team](https://github.com/vuejs/vuepress).
 
-## Author
 
-Pete Davis
-
-- Website: [petedavis.dev](https://petedavis.dev)
-- Github: [@petedavisdev](https://github.com/petedavisdev)
-- Twitter: [@petedavisdev](https://twitter.com/petedavisdev)
