@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-with-netlify-cms",
+  "name": "vuepress-blog-with-netlify-cms",
   "version": "1.0.0",
   "description": "A website starter template with the default VuePress theme and Netlify CMS config",
   "scripts": {
